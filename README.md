@@ -7,20 +7,8 @@ This project implements a Pedagogy Chatbot using a Long Short-Term Memory (LSTM)
 ## Project Structure
 
 ```
-├── data
-│   └── Intents.json          # The JSON file containing the training dataset
+├── Intents.json             # The JSON file containing the training dataset
 └── chatbot.py               # The main Python script for the chatbot
-```
-## Installation
-
-1. Clone the repository:
-```
-git clone https://github.com/your-username/pedagogy-chatbot.git
-```
-
-2. Install the required libraries:
-```
-pip install -r requirements.txt
 ```
 
 ## Dataset
